@@ -1,0 +1,93 @@
+<questions>
+    <question>
+        <text>Care e capitala Spaniei?</text>
+        <options>
+            <option> A Madrid </option>
+            <option> B Paris </option>
+            <option> C Viena </option>
+            <option> D Roma </option>
+        </options>
+        <correct>A</correct>
+    </question>
+
+<question>
+        <text>9 este un ............ </text>
+            <options>
+            <option> A Lucru </option>
+            <option> B Numar </option>
+            <option> C Animal </option>
+            <option> D Copac </option>
+            </options>
+        <correct>B</correct>
+
+<question>
+        <text> Care este denuimirea populara a lunii iulie?</text>
+            <options>
+            <option> A Gerar </option>
+            <option> B Cuptor </option>
+            <option> C Fierar </option>
+            <option> D An </option>
+            </options>
+        <correct>B</correct>
+
+<question>
+        <text>Care e capitala Italiei?</text>
+            <options>
+            <option> A Madrid </option>
+            <option> B Paris </option>
+            <option> C Viena </option>
+            <option> D Roma </option>
+            </options>
+        <correct>D</correct>
+
+<question>
+        <text>Ce rau traversează Parisul?</text>
+            <options>
+            <option> A Rin </option>
+            <option> B Tisa </option>
+            <option> C Sena </option>
+            <option> D Olt </option>
+            </options>
+        <correct>C</correct>
+
+<question>
+        <text>Cate straturi are pielea omului?</text>
+            <options>
+            <option> A Doua </option>
+            <option> B Trei </option>
+            <option> C Patru </option>
+            <option> D Cinci </option>
+            </options>
+        <correct>B</correct>
+
+<question>
+        <text>Cine a fost prima printesa Disney? </text>
+            <options>
+            <option> A Aurora </option>
+            <option> B Cenusareasa </option>
+            <option> C Rapunzel </option>
+            <option> D Mulan </option>
+            </options>
+        <correct>B</correct>
+
+<question>
+        <text>Ce trupa a scris "Bohemian Rapsody"</text>
+            <options>
+            <option> A AC/DC </option>
+            <option> B Scorpions </option>
+            <option> C Metallica </option>
+            <option> D Queen </option>
+            </options>
+        <correct>D</correct>
+
+<question>
+        <text>Care este filmul in care personajele principale sunt Jack si Rose?</text>
+            <options>
+            <option> A Titanic </option>
+            <option> B Avatar </option>
+            <option> C Spiderman </option>
+            <option> D The Notebook  </option>
+            </options>
+        <correct>A</correct>
+    </question>
+</questions>
